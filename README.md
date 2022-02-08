@@ -1,7 +1,7 @@
-
+[![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)]
 <h1 align="center">Hi 👋, I'm Shakir Ali</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4774578-Programmers"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishakir&label=Profile%20views&color=0e75b6&style=flat" alt="alishakir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishakir" alt="alishakir" /></a> </p>
