@@ -1,13 +1,8 @@
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
-  <img width="1000" height="300" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" data-canonical-src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="300"></a>
-</p>
+[![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)]
 <h1 align="center">Hi 👋, I'm Shakir Ali</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishakir&label=Profile%20views&color=0e75b6&style=flat" alt="alishakir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishakir" alt="alishakir" /></a> </p>
 
 - 🔭 I’m currently working on **Truck Dispatch**
 
@@ -27,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishakir&show_icons=true&locale=en&layout=compact" alt="alishakir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishakir&show_icons=true&locale=en" alt="alishakir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishakir&" alt="alishakir" /></p>
-
